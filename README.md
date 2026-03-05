@@ -1,6 +1,6 @@
 Introdução Python para SO Sistemas Operacionais
-Prof. Leandro Colevati FATEC ZL
-Aluno: Lucas Soares Veríssimo
+| Prof. Leandro Colevati FATEC ZL
+|Aluno: Lucas Soares Veríssimo
 
 
 
